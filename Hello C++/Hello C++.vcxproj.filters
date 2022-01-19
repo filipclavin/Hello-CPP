@@ -21,9 +21,15 @@
     <ClCompile Include="PointersAndReferences.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ClassesAndObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PointersAndReferences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassesAndObjects.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

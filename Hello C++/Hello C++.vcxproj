@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ClassesAndObjects.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="PointersAndReferences.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ClassesAndObjects.h" />
     <ClInclude Include="PointersAndReferences.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

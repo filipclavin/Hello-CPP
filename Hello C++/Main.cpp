@@ -3,10 +3,10 @@
 
 int main()
 {
-	std::cout << "Pointers" << std::endl;
+	std::cout << "POINTERS:" << std::endl;
 	HelloPointers();
 	std::cout << "---------------------------------------------------------------------" << std::endl;
-	std::cout << "References" << std::endl;
+	std::cout << "REFERENCES" << std::endl;
 	HelloReferences();
 
 	std::cin.get();
